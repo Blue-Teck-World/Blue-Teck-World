@@ -1,2 +1,5 @@
 # Blue-Teck-World
-Blue Teck World's official repository.
+It's the Blue Teck World's official repository.
+
+## Note:
+This repository is under development
